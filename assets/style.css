@@ -363,7 +363,7 @@ article p {
 
 @media screen and (max-width: 810px) {
   article p {
-    max-width: 90%;
+    max-width: 100%;
   }
   .news-box .year {
     display: inline-block;
